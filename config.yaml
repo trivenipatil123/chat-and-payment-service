@@ -1,0 +1,4 @@
+stripe:
+  secret_key: "sk_test_51PydWbIiYw9oTA2EiKbrAVQki4QmPyppzpgwa1oyWoh7iL4wD9BmPGVsxfsgxOouL6k7DURDac3eTZajfzOU0x0g00lszvjU7r"
+  product_price: 500  # Amount in cents (e.g., $5.00)
+  currency: "usd"
